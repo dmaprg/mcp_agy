@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mac-monitor": {
+      "command": "/Volumes/M2T/dmgit/mcp_agy/.venv/bin/python",
+      "args": [
+        "/Volumes/M2T/dmgit/mcp_agy/system_monitor.py"
+      ]
+    }
+  }
+}
